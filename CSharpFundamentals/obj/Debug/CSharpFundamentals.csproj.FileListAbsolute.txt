@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\csharpbeginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\CSharpBeginners\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\dev\Documents\Visual Studio 2015\Projects\CSharpBeginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\dev\Documents\Visual Studio 2015\Projects\CSharpBeginners\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
